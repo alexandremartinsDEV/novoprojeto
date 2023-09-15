@@ -1,0 +1,40 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  text-align: center;
+}
+
+#main {
+   width: 486;
+   margin: 72px auto 72px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 span  {
+  color:#EE24FF
+}
+
+p span, a {
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  color:#828282;
+
+  font-size: 15px;
+  line-height: 22px;
+}
+
+
+
+
+
+
+
+
+
+
